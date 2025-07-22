@@ -1,0 +1,9 @@
+{
+  "id": "pixso-plugin-id",
+  "name": "pixso-plugin",
+  "ui": "dist/ui.html",
+  "main": {
+    "sandbox": "dist/main.js",
+    "host": "dist/host.js"
+  }
+}

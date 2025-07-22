@@ -1,0 +1,9 @@
+.operate {
+    margin-top: 20px;
+}
+
+button {
+    min-width: 80px;
+    margin-right: 12px;
+    padding: 4px 8px;
+}
